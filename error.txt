@@ -1,0 +1,78 @@
+https://imsdb.com/Movie Scripts/25th Hour Script.html: Error retrieving script from https://imsdb.com/scripts/25th-Hour.html: 'NoneType' object has no attribute 'text'
+https://imsdb.com/Movie Scripts/8 Mile Script.html: Error retrieving script from https://imsdb.com/scripts/8-Mile.pdf: 404 Client Error: Not Found for url: https://imsdb.com/scripts/8-Mile.pdf
+https://imsdb.com/Movie Scripts/A.I. Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Angels & Demons Script.html: Error retrieving script from https://imsdb.com/scripts/.: 404 Client Error: Not Found for url: https://imsdb.com/scripts/
+https://imsdb.com/Movie Scripts/Back to the Future Script.html: Error retrieving script from https://imsdb.com/scripts/Back-to-the-Future.pdf: 404 Client Error: Not Found for url: https://imsdb.com/scripts/Back-to-the-Future.pdf
+https://imsdb.com/Movie Scripts/Back to the Future II & III Script.html: Error retrieving script from https://imsdb.com/scripts/.: 404 Client Error: Not Found for url: https://imsdb.com/scripts/
+https://imsdb.com/Movie Scripts/Batman and Robin Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Batman Begins Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Batman Forever Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Batman Returns Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Benny & Joon Script.html: Error retrieving script from https://imsdb.com/scripts/.: 404 Client Error: Not Found for url: https://imsdb.com/scripts/
+https://imsdb.com/Movie Scripts/Blues Brothers, The Script.html: Error retrieving script from https://imsdb.com/scripts/Blues-Brothers,-The.pdf: 404 Client Error: Not Found for url: https://imsdb.com/scripts/Blues-Brothers,-The.pdf
+https://imsdb.com/Movie Scripts/Bodies, Rest & Motion Script.html: Error retrieving script from https://imsdb.com/scripts/.: 404 Client Error: Not Found for url: https://imsdb.com/scripts/
+https://imsdb.com/Movie Scripts/Bourne Supremacy, The Script.html: Error retrieving script from https://imsdb.com/scripts/Bourne-Supremacy,-The.html: 'NoneType' object has no attribute 'text'
+https://imsdb.com/Movie Scripts/Casablanca Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Catwoman Script.html: Error retrieving script from https://imsdb.com/scripts/Catwoman.html: 'NoneType' object has no attribute 'text'
+https://imsdb.com/Movie Scripts/Celeste & Jesse Forever Script.html: Error retrieving script from https://imsdb.com/scripts/.: 404 Client Error: Not Found for url: https://imsdb.com/scripts/
+https://imsdb.com/Movie Scripts/Clockwork Orange, A Script.html: Error retrieving script from https://imsdb.com/scripts/Clockwork-Orange,-A.pdf: 404 Client Error: Not Found for url: https://imsdb.com/scripts/Clockwork-Orange,-A.pdf
+https://imsdb.com/Movie Scripts/Collateral Script.html: Error retrieving script from https://imsdb.com/scripts/Collateral.html: 'NoneType' object has no attribute 'text'
+https://imsdb.com/Movie Scripts/Contact Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Courage Under Fire Script.html: Error retrieving script from https://imsdb.com/scripts/Courage-Under-Fire.pdf: 404 Client Error: Not Found for url: https://imsdb.com/scripts/Courage-Under-Fire.pdf
+https://imsdb.com/Movie Scripts/Cowboys & Aliens Script.html: Error retrieving script from https://imsdb.com/scripts/.: 404 Client Error: Not Found for url: https://imsdb.com/scripts/
+https://imsdb.com/Movie Scripts/Dark Knight, The Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Donnie Darko Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/El Mariachi Script.html: Error retrieving script from https://imsdb.com/scripts/El-Mariachi.html: 'NoneType' object has no attribute 'text'
+https://imsdb.com/Movie Scripts/Equilibrium Script.html: Error retrieving script from https://imsdb.com/scripts/Equilibrium.pdf: 404 Client Error: Not Found for url: https://imsdb.com/scripts/Equilibrium.pdf
+https://imsdb.com/Movie Scripts/Executive Decision Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Eyes Wide Shut Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Full Metal Jacket Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Fury Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Get Shorty Script.html: Error retrieving script from https://imsdb.com/scripts/Get-Shorty.html: 'NoneType' object has no attribute 'text'
+https://imsdb.com/Movie Scripts/Ginger Snaps Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Goodfellas Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Harry Potter and the Chamber of Secrets Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Harry Potter and the Deathly Hallows Part 1 Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Harry Potter and the Goblet of Fire Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Harry Potter and the Half-Blood Prince Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Harry Potter and the Prisoner of Azkaban Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Harry Potter and the Sorcerer's Stone Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/How to Lose Friends & Alienate People Script.html: Error retrieving script from https://imsdb.com/scripts/.: 404 Client Error: Not Found for url: https://imsdb.com/scripts/
+https://imsdb.com/Movie Scripts/Incredibles, The Script.html: Error retrieving script from https://imsdb.com/scripts/Incredibles,-The.html: 'NoneType' object has no attribute 'text'
+https://imsdb.com/Movie Scripts/Innerspace Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Jade Script.html: Error retrieving script from https://imsdb.com/scripts/Jade.pdf: 404 Client Error: Not Found for url: https://imsdb.com/scripts/Jade.pdf
+https://imsdb.com/Movie Scripts/Kate & Leopold Script.html: Error retrieving script from https://imsdb.com/scripts/.: 404 Client Error: Not Found for url: https://imsdb.com/scripts/
+https://imsdb.com/Movie Scripts/Kill Bill Volume 1 & 2 Script.html: Error retrieving script from https://imsdb.com/scripts/.: 404 Client Error: Not Found for url: https://imsdb.com/scripts/
+https://imsdb.com/Movie Scripts/Kiss of the Spider Woman Script.html: Error retrieving script from https://imsdb.com/scripts/Kiss-of-the-Spider-Woman.pdf: 404 Client Error: Not Found for url: https://imsdb.com/scripts/Kiss-of-the-Spider-Woman.pdf
+https://imsdb.com/Movie Scripts/Lethal Weapon Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Lethal Weapon 4 Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Lion King, The Script.html: Error retrieving script from https://imsdb.com/scripts/Lion-King,-The.pdf: 404 Client Error: Not Found for url: https://imsdb.com/scripts/Lion-King,-The.pdf
+https://imsdb.com/Movie Scripts/Marley & Me Script.html: Error retrieving script from https://imsdb.com/scripts/.: 404 Client Error: Not Found for url: https://imsdb.com/scripts/
+https://imsdb.com/Movie Scripts/Matchstick Men Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Monster's Ball Script.html: Error retrieving script from https://imsdb.com/scripts/Monster's-Ball.pdf: 404 Client Error: Not Found for url: https://imsdb.com/scripts/Monster's-Ball.pdf
+https://imsdb.com/Movie Scripts/Mr. Holland's Opus Script.html: Error retrieving script from https://imsdb.com/scripts/Mr.-Holland's-Opus.pdf: 404 Client Error: Not Found for url: https://imsdb.com/scripts/Mr.-Holland's-Opus.pdf
+https://imsdb.com/Movie Scripts/Napoleon Dynamite Script.html: Error retrieving script from https://imsdb.com/scripts/Napoleon-Dynamite.html: 'NoneType' object has no attribute 'text'
+https://imsdb.com/Movie Scripts/O Brother Where Art Thou? Script.html: 404 Client Error: Not Found for url: https://imsdb.com/Movie%20Scripts/O%20Brother%20Where%20Art%20Thou?%20Script.html
+https://imsdb.com/Movie Scripts/Officer and a Gentleman, An Script.html: Error retrieving script from https://imsdb.com/scripts/Officer-and-a-Gentleman,-An.pdf: 404 Client Error: Not Found for url: https://imsdb.com/scripts/Officer-and-a-Gentleman,-An.pdf
+https://imsdb.com/Movie Scripts/Outbreak Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Papadopoulos & Sons Script.html: Error retrieving script from https://imsdb.com/scripts/.: 404 Client Error: Not Found for url: https://imsdb.com/scripts/
+https://imsdb.com/Movie Scripts/Robocop Script.html: Error retrieving script from https://imsdb.com/scripts/Robocop.pdf: 404 Client Error: Not Found for url: https://imsdb.com/scripts/Robocop.pdf
+https://imsdb.com/Movie Scripts/Romeo & Juliet Script.html: Error retrieving script from https://imsdb.com/scripts/.: 404 Client Error: Not Found for url: https://imsdb.com/scripts/
+https://imsdb.com/Movie Scripts/Rushmore Script.html: Error retrieving script from https://imsdb.com/scripts/Rushmore.html: 'NoneType' object has no attribute 'text'
+https://imsdb.com/Movie Scripts/Shadow of the Vampire Script.html: Error retrieving script from https://imsdb.com/scripts/Shadow-of-the-Vampire.pdf: 404 Client Error: Not Found for url: https://imsdb.com/scripts/Shadow-of-the-Vampire.pdf
+https://imsdb.com/Movie Scripts/Sneakers Script.html: Error retrieving script from https://imsdb.com/scripts/Sneakers.pdf: 404 Client Error: Not Found for url: https://imsdb.com/scripts/Sneakers.pdf
+https://imsdb.com/Movie Scripts/Speed Script.html: Error retrieving script from https://imsdb.com/scripts/Speed.pdf: 404 Client Error: Not Found for url: https://imsdb.com/scripts/Speed.pdf
+https://imsdb.com/Movie Scripts/Star Wars: Revenge of the Sith Script.html: Error retrieving script from https://imsdb.com/scripts/Star-Wars-Revenge-of-the-Sith.html: 'NoneType' object has no attribute 'text'
+https://imsdb.com/Movie Scripts/Superfights Script.html: Error retrieving script from https://imsdb.com/scripts/Superfights.pdf: 404 Client Error: Not Found for url: https://imsdb.com/scripts/Superfights.pdf
+https://imsdb.com/Movie Scripts/Thelma & Louise Script.html: Error retrieving script from https://imsdb.com/scripts/.: 404 Client Error: Not Found for url: https://imsdb.com/scripts/
+https://imsdb.com/Movie Scripts/Troy Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Unforgiven Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Valentine's Day Script.html: 'NoneType' object has no attribute 'get'
+https://imsdb.com/Movie Scripts/Vertigo Script.html: Error retrieving script from https://imsdb.com/scripts/Vertigo.pdf: 404 Client Error: Not Found for url: https://imsdb.com/scripts/Vertigo.pdf
+https://imsdb.com/Movie Scripts/Village, The Script.html: Error retrieving script from https://imsdb.com/scripts/Village,-The.html: 'NoneType' object has no attribute 'text'
+https://imsdb.com/Movie Scripts/What About Bob? Script.html: 404 Client Error: Not Found for url: https://imsdb.com/Movie%20Scripts/What%20About%20Bob?%20Script.html
+https://imsdb.com/Movie Scripts/When Harry Met Sally Script.html: Error retrieving script from https://imsdb.com/scripts/When-Harry-Met-Sally.pdf: 404 Client Error: Not Found for url: https://imsdb.com/scripts/When-Harry-Met-Sally.pdf
+https://imsdb.com/Movie Scripts/Who Framed Roger Rabbit? Script.html: 404 Client Error: Not Found for url: https://imsdb.com/Movie%20Scripts/Who%20Framed%20Roger%20Rabbit?%20Script.html
+Error saving poster for Human Nature: Invalid URL '/posters/Human-Nature.jpg': No scheme supplied. Perhaps you meant https:///posters/Human-Nature.jpg?
+Error saving poster for Verdict, The: Invalid URL '/posters/Verdict,-The.jpg': No scheme supplied. Perhaps you meant https:///posters/Verdict,-The.jpg?
+Error saving poster for Walk to Remember, A: HTTPSConnectionPool(host='images.art.com', port=443): Max retries exceeded with url: /images/products/THUMB/10126000/10126471.jpg (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'images.art.com'. (_ssl.c:1002)")))
